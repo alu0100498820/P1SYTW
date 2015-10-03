@@ -1,0 +1,22 @@
+{
+  "name": "temperature-converter",
+  "version": "1.0.0",
+  "description": "Grado de Ingenieria Informatica. SYTW. Practica:\"Temperature Converter\"",
+  "main": "temperature.js",
+  "scripts": {
+    "test": "open tests/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alu0100498820/P1SYTW.git"
+  },
+  "keywords": [
+    "regexp"
+  ],
+  "author": "Borja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alu0100498820/P1SYTW/issues"
+  },
+  "homepage": "https://github.com/alu0100498820/P1SYTW#readme"
+}
