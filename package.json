@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/alu0100498820/P1SYTW/issues"
   },
-  "homepage": "https://github.com/alu0100498820/P1SYTW#readme"
+  "homepage": "https://github.com/alu0100498820/P1SYTW#readme",
+  "devDependencies": {
+    "chai": "^3.3.0"
+  }
 }
