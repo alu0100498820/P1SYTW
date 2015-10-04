@@ -14,11 +14,12 @@
   + Uso de Gulp
 
 ---
-  > *Enlace del Repositorio:*
+> *Enlace del Repositorio:*
 
   * http://alu0100498820.github.io/P1SYTW
 
 
-  > *Ejecución de Pruebas*
+
+> *Ejecución de Pruebas*
 
   * http://alu0100498820.github.io/P1SYTW/tests/index.html
