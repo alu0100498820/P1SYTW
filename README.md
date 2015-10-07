@@ -14,7 +14,7 @@
   + Uso de Gulp
 
 ---
-> *Enlace del Repositorio:*
+> *Enlace web:*
 
   * http://alu0100498820.github.io/P1SYTW
 
