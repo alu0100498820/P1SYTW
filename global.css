@@ -3,12 +3,12 @@
           text-align: right;
           font-size: large;
           // border: 1px solid black;
-  } /* Don't center table cells  */
+  }
 
   #converted  { color: red; font-weight: bold; font-size:large;          } /* Calculated values in bold */
 
   input {
-          text-align: right;       /* Align input to the right  */
+          text-align: right;
           border: none;
           border-radius: 20px 20px 20px 20px;
           padding: 5px  5px;
@@ -16,17 +16,37 @@
   }
 
   body {
-        background-color:#b0c4de;  /* blue */
+        background-color:#ADD8E6;
         font-size:large;
         font-family: "Lucida Sans Typewriter", "Lucida Console", Monaco, "Bitstream Vera Sans Mono", monospace;
   }
 
   h1 {
+      font-size: 70px;
       font-weight: normal;
-      font-family: "Brush Script MT", cursive;
-      background: #3C5681;
-      padding: 5px 15px;
+      font-family: "Brush Script MT",cursive;
+      /*background: #3C5681;*/
+      /*padding: 5px 15px;*/
       color: white;
       display:inline-block;
-      border-radius: 10px 10px 10px 10px;
+      /*border-radius: 10px 10px 10px 10px;*/
+  }
+
+  p {
+    font-family: "Lucida Sans Typewriter", "Lucida Console";
+    font-weight: lighter;
+  }
+
+  #footer {
+    width: 100%;
+    height: 100px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+  }
+
+  hr {
+    background-color: white;
+    width: 70%;
+    height: 1px;
   }
