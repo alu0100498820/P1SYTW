@@ -21,6 +21,11 @@ suite('temperature', function() {
         calculate();
         assert.deepEqual(converted.innerHTML,"32.0 Farenheit");
     });
+    test('3.3e-2C Es un numero?', function() {
+       original.value = "3.3e-2C";
+       calculate();
+       assert.isString(converted.innerHTML);
+    });
     test('5X = error', function() {
         original.value = "5X";
         calculate();
